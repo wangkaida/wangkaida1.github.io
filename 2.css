@@ -1,0 +1,24 @@
+   @media only screen and (min-width: 760px) {
+    .navbar-toggle{
+        display: none;
+    }
+    .nav{
+        display: block;
+        width: 65%;
+        float: right;
+        height: 100%;   
+    }
+    .nav li{
+        float: left;
+        width: 16.5%;
+        line-height: 70px;
+    }
+    .cont_left{
+        width: 41.66666667%;
+        float: left;
+    }
+    .cont_right{
+        float: left;
+        width: 58.33333333%;
+    }
+}
